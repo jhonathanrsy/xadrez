@@ -5,3 +5,10 @@ C:\Users\windows7\source\repos\xadrez_console\xadrez_console\obj\Debug\xadrez_co
 C:\Users\windows7\source\repos\xadrez_console\xadrez_console\obj\Debug\xadrez_console.csproj.CoreCompileInputs.cache
 C:\Users\windows7\source\repos\xadrez_console\xadrez_console\obj\Debug\xadrez_console.exe
 C:\Users\windows7\source\repos\xadrez_console\xadrez_console\obj\Debug\xadrez_console.pdb
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\bin\Debug\xadrez_console.exe.config
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\bin\Debug\xadrez_console.exe
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\bin\Debug\xadrez_console.pdb
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\obj\Debug\xadrez_console.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\obj\Debug\xadrez_console.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\obj\Debug\xadrez_console.exe
+C:\Users\Jhonatan\Desktop\xadrez\xadrez_console\obj\Debug\xadrez_console.pdb
